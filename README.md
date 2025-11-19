@@ -30,13 +30,3 @@ I love creating scalable micro-services, Next.js applications, internal tools fo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paswie&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paswie&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
- 
-
